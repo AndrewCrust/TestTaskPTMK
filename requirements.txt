@@ -1,0 +1,2 @@
+pony==0.7.17
+russian-names==0.1.2
